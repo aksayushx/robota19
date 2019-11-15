@@ -1,6 +1,7 @@
 # robota 19
 
-INTRODUCTION
+# INTRODUCTION
+
 Thanos and The Curious Bot:
 Thanos has access to the three infinity stones - Mind, Time and Space. But his robo daughter
 Nebula has gone rogue. He needs to get the other three stones (Soul, Power, Reality) to achieve his
@@ -12,7 +13,7 @@ Design a Semi-Autonomous robot which could retrieve the stone by following a def
 *The game involves the use of IR sensors, which would be used to complete the line following part,
 and the Bluetooth module which would be used for the locomotion.
 
-TASK DESCRIPTION
+# TASK DESCRIPTION
 The match starts with the bot having autonomous control. It should follow the line until it
 encounters an obstacle using IR Sensors on the path ie Boxes. It should then Switch over to
 manual mode and lift/drag the Boxes and place it on the labelled Base position, only one Box can
@@ -25,3 +26,5 @@ respond to the marker, If the bot responds points will be deducted accordingly.
 The Background will be Black and the line will be White of uniform width. If any team assumes
 manual control for following the line it will be immediately disqualified. The Bot has to go by the
 order, picking up the boxes in order of the number on it.
+
+![Arena](https://github.com/aksayushx/robota19/blob/master/RobotaArena.jpeg) 
