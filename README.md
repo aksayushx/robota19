@@ -30,3 +30,8 @@ order, picking up the boxes in order of the number on it.
 ## Arena for robota 
 
 ![Arena](https://github.com/aksayushx/robota19/blob/master/RobotaArena.jpeg) 
+
+
+
+
+The code for the semi-autonomous bot is written in Arduino.cc 
